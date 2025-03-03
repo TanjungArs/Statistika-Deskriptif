@@ -1,3 +1,3 @@
 # Statistika-Deskriptif
 
-untuk menyelesikan tugas statistika elementer
+Untuk menyelesikan tugas statistika elementer
